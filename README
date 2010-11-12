@@ -1,0 +1,3 @@
+A quick Ruby API to access and harvest Pubmed articles from the NCBI Entrez
+utilities.  Will add more and document if there is interest.  Requires
+Nokogiri for XML processing.
